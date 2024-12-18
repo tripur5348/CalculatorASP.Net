@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+017a08332769c3c484235372b221f1ed80a87370")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

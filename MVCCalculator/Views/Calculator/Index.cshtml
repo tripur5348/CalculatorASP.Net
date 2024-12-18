@@ -65,10 +65,11 @@
             <div class="form-group mb-3">
                 <label for="Operation">Operation:</label>
                 <select name="Operation" id="Operation" class="form-control">
-                    <option value="Add" @(Model.Operation == "Add" ? "selected" : null)>Add</option>
-                    <option value="Subtract" @(Model.Operation == "Subtract" ? "selected" : null)>Subtract</option>
-                    <option value="Multiply" @(Model.Operation == "Multiply" ? "selected" : null)>Multiply</option>
-                    <option value="Divide" @(Model.Operation == "Divide" ? "selected" : null)>Divide</option>
+                    <option value="Add" selected="@(Model.Operation == "Add" ? "selected" : null)">Add</option>
+                    <option value="Subtract" selected="@(Model.Operation == "Subtract" ? "selected" : null)">Subtract</option>
+                    <option value="Multiply" selected="@(Model.Operation == "Multiply" ? "selected" : null)">Multiply</option>
+                    <option value="Divide" selected="@(Model.Operation == "Divide" ? "selected" : null)">Divide</option>
+
                 </select>
                 @Html.ValidationMessageFor(m => m.Operation, null, new { @class = "text-danger" })
             </div>

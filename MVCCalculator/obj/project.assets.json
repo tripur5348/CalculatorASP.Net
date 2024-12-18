@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tripur Muley\\source\\repos\\MVCCalculator\\MVCCalculator\\MVCCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\Tripur Muley\\Desktop\\project.net\\CalculatorASP.Net\\CalculatorASP.Net\\MVCCalculator\\MVCCalculator.csproj",
       "projectName": "MVCCalculator",
-      "projectPath": "C:\\Users\\Tripur Muley\\source\\repos\\MVCCalculator\\MVCCalculator\\MVCCalculator.csproj",
+      "projectPath": "C:\\Users\\Tripur Muley\\Desktop\\project.net\\CalculatorASP.Net\\CalculatorASP.Net\\MVCCalculator\\MVCCalculator.csproj",
       "packagesPath": "C:\\Users\\Tripur Muley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tripur Muley\\source\\repos\\MVCCalculator\\MVCCalculator\\obj\\",
+      "outputPath": "C:\\Users\\Tripur Muley\\Desktop\\project.net\\CalculatorASP.Net\\CalculatorASP.Net\\MVCCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

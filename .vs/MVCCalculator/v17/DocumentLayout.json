@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tripur Muley\\Desktop\\project.net\\CalculatorASP.Net\\CalculatorASP.Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C12A9E9-0441-4EA3-AFCE-5CED98AC3447}|MVCCalculator\\MVCCalculator.csproj|c:\\users\\tripur muley\\desktop\\project.net\\calculatorasp.net\\calculatorasp.net\\mvccalculator\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C12A9E9-0441-4EA3-AFCE-5CED98AC3447}|MVCCalculator\\MVCCalculator.csproj|solutionrelative:mvccalculator\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tripur Muley\\Desktop\\project.net\\CalculatorASP.Net\\CalculatorASP.Net\\MVCCalculator\\Views\\Calculator\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCalculator\\Views\\Calculator\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tripur Muley\\Desktop\\project.net\\CalculatorASP.Net\\CalculatorASP.Net\\MVCCalculator\\Views\\Calculator\\Index.cshtml",
+              "RelativeToolTip": "MVCCalculator\\Views\\Calculator\\Index.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T13:44:25.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
